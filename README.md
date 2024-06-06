@@ -1,6 +1,7 @@
 # Airbnb_Project
 
-This is a Python program that provides insights for Guests and Hosts.
+* This is a Python program that provides insights for Guests and Hosts.
+* Creates geo-mapping functions and price recommenders for Airbnb in the area.
 
 ![image](https://github.com/Inquisitive-Learner/Airbnb_Project/assets/80440978/d565db2f-4324-49a2-9f45-023972fc14ed)
 
