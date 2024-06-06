@@ -2,6 +2,9 @@
 
 This is a Python program that provides insights for Guests and Hosts.
 
+![image](https://github.com/Inquisitive-Learner/Airbnb_Project/assets/80440978/d565db2f-4324-49a2-9f45-023972fc14ed)
+
+
 # Problem deconstruction:
 1. Translate business requirements into workable applications
 2. Able to come up with insights based on the data 
